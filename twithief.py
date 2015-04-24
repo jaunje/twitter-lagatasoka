@@ -2,7 +2,7 @@
 #coding: utf-8
 
 # Twithief 
-# Agradecimientos a www.geekytheory.com y @luisvallik
+# Agradecimientos a www.geekytheory.com, @AlexCorvis84 y @luisvallik
 
 # Importamos las librerias necesarias: 
 # Twython: necesaria para creacion/autenticacion con Twitter
